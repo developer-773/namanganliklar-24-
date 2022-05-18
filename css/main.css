@@ -1,0 +1,194 @@
+
+
+
+.top{
+    background-color: #f6f6f6;
+    width: 1440px;
+    /* height: 105px; */
+    /*line-height: 50px;*/
+
+}
+
+.search {
+    background-color: #fff;
+    width: 275px;
+    /* height: 45px; */
+}
+
+.lang-link-uz {
+    background-color: #fff;
+    text-decoration: none;
+    color: #000;
+}
+
+.lang-link-ru {
+    background-color: #DCE6FF;
+    text-decoration: none;
+    color: #A6A6A6;
+}
+
+.sign {
+    background-color: #7296EC;
+    text-decoration: none;
+    color: #fff;
+    width: 89px;
+    /*height berilmidi yozuv ko'payishi mumkin*/
+}
+
+
+.navigation-list-ul {
+    width: 1200px;
+    list-style: none;
+
+}
+
+
+
+.navigation-item {
+    color: #7F7F7F;
+    text-decoration: none;
+    background-color: #fff;
+
+    
+    font-size: 21px;
+    font-weight: 900;
+    line-height: 51px;
+}
+
+/*.br {
+    background-color:  #fff;
+    color: #D1D1D1;
+}
+*/
+
+/* .news-columns-list {
+    list-style: none;
+} */
+
+
+.news-column-li {
+    background:#F6F6F6 ;
+    width: 394px;
+    list-style: none;
+
+}
+
+
+.news-column {
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-decoration: none;
+
+}
+
+.news-column-h3 {
+    color: #4A4B4C;
+    font-size: 16;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+
+
+.notify {
+    background-color: #fdcca7;
+    
+}
+
+.btn {
+    color: #fff;
+    text-decoration: none;
+    background-color: #F78B3B;
+}
+
+
+.world-columns-list{
+    list-style: none;
+}
+
+.world-column-col {
+    background:#F6F6F6 ;
+    width: 797px;
+    text-decoration: none;
+
+}
+
+.world-col {
+    color: #F78B3B;
+    color: #000;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.h3-txt {
+    font-size: 24px;
+}
+
+.sidebar-columns-list {
+    background:#F6F6F6 ;
+    width: 393px;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+
+.sidebar-columns-col {
+        text-decoration: none;
+        color: #000;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 45px;
+}
+
+.sidebar-col{
+    text-decoration: none;
+    color: #000;
+    font-size: 28px;
+
+}
+
+.show{
+    background-color: #EAEAEA;
+}
+
+.show-more {
+    color:#000;
+    width: 796px;
+    height: 53px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.end{
+    background-color:  #7297EF;
+}
+
+.end-bio{
+    color: #fff;
+    font-size: 12;
+    font-weight: 400;
+    line-height: 22px;
+    width: 229px;
+
+    }
+    
+.end-nav{
+    color: #fff;
+    font-weight: 800;
+    line-height: 22px;
+    text-decoration: none;
+    }
+
+.bio{
+    list-style: none;
+}
+
+.websites{
+    list-style: none;
+}
